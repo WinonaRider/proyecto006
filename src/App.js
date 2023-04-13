@@ -1,4 +1,4 @@
-import Dado from "./Dado.js";
+import Dado from "./Dado";
 import { useState } from "react";
 
 function App() {
